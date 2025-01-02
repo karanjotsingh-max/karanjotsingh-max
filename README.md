@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karanjot Singh 👋</h1>
-<p align="center"><b>Tech Enthusiast | Software Developer | Data Science Explorer</b></p>
+<p align="center"><b>Tech Enthusiast | Software Developer | Machine Learning Explorer</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karanjots1/">
