@@ -62,11 +62,6 @@
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karanjotsingh-max&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
 
 ### 📫 Let's Connect!
